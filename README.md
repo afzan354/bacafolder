@@ -27,8 +27,8 @@ Pastikan kamu sudah menginstall **Python 3** dan **pip**.
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/username/bacaf.git
-cd bacaf
+git clone https://github.com/afzan354/bacafolder.git
+cd bacafolder
 
 # 2. Install dependensi
 pip install colorama
@@ -52,8 +52,8 @@ bacaf /home/kamu/Documents -L
 
 ```powershell
 # 1. Clone repo
-git clone https://github.com/username/bacaf.git
-cd bacaf
+git clone https://github.com/afzan354/bacafolder.git
+cd bacafolder
 
 # 2. Install dependensi
 pip install colorama
